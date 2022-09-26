@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif?cid=ecf05e47qwtlkefg7si7ndy7relx10ao5k4nf48rrf43zknx&rid=giphy.gif&ct=g)](https://rishavchanda.io)
+[![MasterHead](https://linkupst.ams3.digitaloceanspaces.com/staging/image/193/image/ba9acc7db709ce80fcfa1954891bad80.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">QA automation tester for Ukraine</h3>
 
