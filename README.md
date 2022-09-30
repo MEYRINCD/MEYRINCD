@@ -1,6 +1,6 @@
 [![MasterHead](https://linkupst.ams3.digitaloceanspaces.com/staging/image/193/image/ba9acc7db709ce80fcfa1954891bad80.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">QA automation tester for Ukraine</h3>
+<h3 align="center">QA automation tester from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meyrincd&label=Profile%20views&color=0e75b6&style=flat" alt="meyrincd" /> </p>
 
